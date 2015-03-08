@@ -1,0 +1,32 @@
+# Authors
+
+David:
+  name: David
+  web: mysteriouseaters.com
+  email: info@mysteriouseaters.com
+  bio: "Just your average foodie."
+  avatar: bio-photo-2.jpg
+  twitter: MysteriousEaters
+  google:
+    plus: 
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
+
+
+Hedwig:
+  name: Hedwig
+  web: mysteriouseaters.com
+  email: info@mysteriouseaters.com
+  bio: "Perspectivist."
+  avatar: bio-photo-2.jpg
+  twitter: MysteriousEaters
+  google:
+    plus:
+  instagram: MysteriousEaters

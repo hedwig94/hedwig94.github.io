@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: recipes
+  url: /recipes/
+
+- title: Blog
+  url: /blog/
+
+- title: Health Facts
+  url: /health-facts/
+
+- title: Mental Health
+  url: /mental-health/
+
+- title: Diseases and allergies
+  url: /diseases-and-allergies/
+
+- title: Search
+  url: /search/
