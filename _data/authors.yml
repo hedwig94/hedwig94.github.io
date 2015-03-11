@@ -1,6 +1,6 @@
 # Authors
 
-David:
+david:
   name: David
   web: mysteriouseaters.com
   email: info@mysteriouseaters.com
@@ -10,11 +10,12 @@ David:
   google:
     plus: 
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
+hermoine:
+  name: Hermoine
+  web: mysteriouseaters.com
+  email: info@mysteriouseaters.com
+  bio: "Just a food lovin' girl."
   avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
+  twitter: MysteriousEaters
   google:
-    plus: CorneliusFiddlebone
+    plus: 
