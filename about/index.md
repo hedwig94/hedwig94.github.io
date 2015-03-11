@@ -16,10 +16,10 @@ image:
 * Writing about cooking, recipes and tips and tricks.
 * Doing what we love to do the most: prepare delicious food.
 
-<a markdown="0" href="{{ site.url }}/blog" class="btn">Go to our blog!</a>
-<a markdown="0" href="{{ site.url }}/blog" class="btn">Read more about David!</a>
-<a markdown="0" href="{{ site.url }}/blog" class="btn">Read more about Hermoine</a>
-<a markdown="0" href="{{ site.url }}/blog" class="btn">Read more about Jane!</a>
+
+<a markdown="0" href="{{ site.url }}/david.html" class="btn">Read more about David!</a>
+<a markdown="0" href="{{ site.url }}/about/hermoine/" class="btn">Read more about Hermoine!</a>
+<a markdown="0" href="{{ site.url }}/about/jane/" class="btn">Read more about Jane!</a>
 
 
 
