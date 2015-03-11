@@ -3,7 +3,7 @@
 david:
   name: David
   web: mysteriouseaters.com
-  email: info@mysteriouseaters.com
+  email: david@mysteriouseaters.com
   bio: "Just your average foodie."
   avatar: bio-photo-2.jpg
   twitter: MysteriousEaters
@@ -13,7 +13,7 @@ david:
 hermoine:
   name: Hermoine
   web: mysteriouseaters.com
-  email: info@mysteriouseaters.com
+  email: hermoine@mysteriouseaters.com
   bio: "Just a food lovin' girl."
   avatar: bio-photo.jpg
   twitter: MysteriousEaters
