@@ -24,6 +24,12 @@
 
 - title: Diseases and allergies
   url: /diseases-and-allergies/
+  subcategories:
+    - subtitle: Diseases
+      suburl: /diseases/
+    - subtitle: Allergies 
+      suburl: /allergies/
 
 - title: Search
   url: /search/
+
