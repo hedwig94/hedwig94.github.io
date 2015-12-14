@@ -17,9 +17,9 @@ image:
 * Doing what we love to do the most: prepare delicious food.
 
 
-<a markdown="0" href="{{ site.url }}/david" class="btn">Read more about David!</a>
-<a markdown="0" href="{{ site.url }}/hermoine" class="btn">Read more about Hermoine!</a>
-<a markdown="0" href="{{ site.url }}/jane" class="btn">Read more about Jane!</a>
+<a markdown="0" href="{{ site.url }}/david" class="btn">Read more about Rick!</a>
+<a markdown="0" href="{{ site.url }}/hermoine" class="btn">Read more about Hedwig!</a>
+
 
 
 
