@@ -1,21 +1,22 @@
 # Authors
 
-david:
-  name: David
+rick:
+  name: Rick
   web: mysteriouseaters.com
-  email: david@mysteriouseaters.com
+  email: rick@mysteriouseaters.com
   bio: "Just your average foodie."
   avatar: bio-photo-2.jpg
-  twitter: MysteriousEaters
+  facebook: MysteriousEaters
+  twitter: 
   google:
     plus: 
 
-hermoine:
-  name: Hermoine
+hedwig:
+  name: Hedwig
   web: mysteriouseaters.com
   email: hermoine@mysteriouseaters.com
   bio: "Just a food lovin' girl."
   avatar: bio-photo.jpg
-  twitter: MysteriousEaters
+  facebook: Mysteriouseaters
   google:
     plus: 

@@ -3,12 +3,10 @@
 - title: About
   url: /about/
   subcategories:
-    - subtitle: David
-      suburl: /david/
-    - subtitle: Hermoine
-      suburl: /hermoine/
-    - subtitle: Jane
-      suburl: /jane/
+    - subtitle: Rick
+      suburl: /rick/
+    - subtitle: Hedwig
+      suburl: /hedwig/
 
 - title: recipes
   url: /recipes/
